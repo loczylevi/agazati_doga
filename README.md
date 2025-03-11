@@ -1,6 +1,6 @@
 # agazati_doga
 
-<img src="frog.gif" alt="GIF kép leírása">
+<img src="frog.gif" alt="GIF kép leírása"> <img src="frog.gif" alt="GIF kép leírása">
 
 ```python
 
